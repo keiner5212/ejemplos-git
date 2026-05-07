@@ -1,6 +1,6 @@
 # aqui vamos a definir el nombre
-nombre = "Keiner" # str
+nombre = "Keiner José" # str
 edad = 21 # int
 
 # aqui imprimiremos el nombre
-print("Hola",nombre, "tienes: ", edad, "años")
+print("Hola",nombre, "tienes:", edad, "años")
